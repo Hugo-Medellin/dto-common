@@ -10,7 +10,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 
-	<groupId>com.keytec</groupId>
+	<groupId>com.keytec.shared</groupId>
 	<artifactId>dto</artifactId>
 	<version>1.0.0</version>
 

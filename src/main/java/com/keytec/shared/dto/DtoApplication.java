@@ -1,4 +1,4 @@
-package com.keytec.dto;
+package com.keytec.shared.dto;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

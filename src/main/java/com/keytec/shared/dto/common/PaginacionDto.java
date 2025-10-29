@@ -1,4 +1,4 @@
-package com.keytec.dto.common;
+package com.keytec.shared.dto.common;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
