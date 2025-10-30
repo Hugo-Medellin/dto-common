@@ -7,7 +7,7 @@
 
 	<groupId>com.keytec.shared</groupId>
 	<artifactId>dto</artifactId>
-	<version>1.0.0</version>
+	<version>1.0.1</version>
 	<packaging>jar</packaging>
 
 	<name>dto</name>
@@ -28,6 +28,14 @@
 			<scope>provided</scope>
 		</dependency>
 	</dependencies>
+
+	<distributionManagement>
+		<repository>
+			<id>github</id>
+			<name>GitHub Packages</name>
+			<url>https://maven.pkg.github.com/Hugo-Medellin/dto-common</url>
+		</repository>
+	</distributionManagement>
 
 	<build>
 		<plugins>
